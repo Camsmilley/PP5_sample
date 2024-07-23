@@ -1,0 +1,15 @@
+:root{
+    --primary-color: #3ab3a7;
+    --primary-hover: #0c988a;
+    --secondary-color:  #059789;
+    --secondary-hover: #253b53;
+    --grey-color: #f7f7f7;
+    --black-color: hsl(201, 33%, 16%);
+    --text-color: hsl(240, 4%, 36%);
+    --white-color-deam: hsl(0, 0%, 93%);
+    --grey-text: rgb(190, 190, 190);
+    --input-color: rgb(239,239, 239);
+    --body-color: rgb(240, 240, 246);
+    --card-BG: rgb(255, 255, 255);
+    --card-Hover: rgb(255, 255, 255);
+  }
